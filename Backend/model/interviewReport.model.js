@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 
-
 /**
  * -job description
  * -resume text
